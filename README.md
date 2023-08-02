@@ -33,7 +33,7 @@ docker exec -it [ID-DO-CONTAINER] bash
 	
 - Utilize o arquivo Insomnia_2023-08-02.json e importe-o para o "Insomnia" para executar as respectivas rotas.
 
-  ARQUIVO INMSOMNIA: https://drive.google.com/file/d/15PlMWwFHG7B4OOsLdsfCp6VMsQ7ALZxo/view?usp=sharing
+  ARQUIVO INSOMNIA: https://drive.google.com/file/d/15PlMWwFHG7B4OOsLdsfCp6VMsQ7ALZxo/view?usp=sharing
   
 
 ## TESTES UNITÁRIOS;
