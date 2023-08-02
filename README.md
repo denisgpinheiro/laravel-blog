@@ -10,7 +10,7 @@ API de CRUD desenvolvido em Laravel v10.17.0 (PHP v8.1.21), para cadastro de Pos
 ## Como rodar a aplicação
 
 - Clone o repositório para sua máquina
-- Navegue até a pasta Laradock
+- Navegue até a pasta Laradock:
 	cd laradock
 	
 - Suba os containers executando:
