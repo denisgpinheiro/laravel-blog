@@ -10,9 +10,11 @@ API de CRUD desenvolvido em Laravel v10.17.0 (PHP v8.1.21), para cadastro de Pos
 ## Como rodar a aplicação
 
 - Clone o repositório para sua máquina
+- Na pasta root renomeie o arquivo my.env para .env com o seguinte comando: mv my.env .env
+  
 - Navegue até a pasta Laradock:
 	cd laradock
-- Renomeie o arquivo my.env para .env com o seguinte comando: mv my.env .env	
+- Renomeie também o arquivo my.env para .env com o seguinte comando: mv my.env .env	
 - Suba os containers executando:
 	docker-compose up -d nginx mysql 
 	
