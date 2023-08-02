@@ -38,6 +38,7 @@ Para executar os testes unitários, dentro do container execute o seguinte coman
 
 ./vendor/bin/phpunit --filter PostControllerTest
 
+!(https://prnt.sc/zcbe80i2A73c)
 
 ## ROTAS DA API:
 
