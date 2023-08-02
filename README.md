@@ -46,20 +46,20 @@ PRINT: !(https://prnt.sc/zcbe80i2A73c)
 ## ROTAS DA API:
 
 Rotas para Posts
-GET: /posts - Listar todos os posts
-GET: /posts/{id} - Mostrar detalhes de um post
-POST: /posts - Criar um novo post
-PUT: /posts/{id} - Atualizar um post
-DELETE: /posts/{id} - Excluir um post
+- GET: /posts - Listar todos os posts
+- GET: /posts/{id} - Mostrar detalhes de um post
+- POST: /posts - Criar um novo post
+- PUT: /posts/{id} - Atualizar um post
+- DELETE: /posts/{id} - Excluir um post
 
 Todas para Categorias
-GET: /categories - Listar todas as categorias
-GET: /categories/{id} - Mostrar detalhes de uma categoria
-POST: /categories - Criar uma nova categoria
-PUT: /categories/{id} - Atualizar uma categoria
-DELETE: /categories/{id} - Excluir uma  categoria
+- GET: /categories - Listar todas as categorias
+- GET: /categories/{id} - Mostrar detalhes de uma categoria
+- POST: /categories - Criar uma nova categoria
+- PUT: /categories/{id} - Atualizar uma categoria
+- DELETE: /categories/{id} - Excluir uma  categoria
 
 Alguns prints do Insomnia:
-!(https://prnt.sc/JTKkdqGPfgA4)
-!(https://prnt.sc/ELXnBBL-34kV)
-!(https://prnt.sc/F0Ej9DCw-ouF)
+- !(https://prnt.sc/JTKkdqGPfgA4)
+- !(https://prnt.sc/ELXnBBL-34kV)
+- !(https://prnt.sc/F0Ej9DCw-ouF)
