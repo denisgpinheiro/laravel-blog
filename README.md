@@ -33,16 +33,33 @@ docker exec -it [ID-DO-CONTAINER] bash
 	
 - Utilize o arquivo Insomnia_2023-08-02.json e importe-o para o "Insomnia" para executar as respectivas rotas.
 
+  ARQUIVO INMSOMNIA: https://drive.google.com/file/d/15PlMWwFHG7B4OOsLdsfCp6VMsQ7ALZxo/view?usp=sharing
+  
+
 ## TESTES UNITÁRIOS;
 Para executar os testes unitários, dentro do container execute o seguinte comando:
 
 ./vendor/bin/phpunit --filter PostControllerTest
 
-!(https://prnt.sc/zcbe80i2A73c)
+PRINT: !(https://prnt.sc/zcbe80i2A73c)
 
 ## ROTAS DA API:
 
 Rotas para Posts
+GET: /posts - Listar todos os posts
+GET: /posts/{id} - Mostrar detalhes de um post
+POST: /posts - Criar um novo post
+PUT: /posts/{id} - Atualizar um post
+DELETE: /posts/{id} - Excluir um post
 
 Todas para Categorias
+GET: /categories - Listar todas as categorias
+GET: /categories/{id} - Mostrar detalhes de uma categoria
+POST: /categories - Criar uma nova categoria
+PUT: /categories/{id} - Atualizar uma categoria
+DELETE: /categories/{id} - Excluir uma  categoria
 
+Alguns prints do Insomnia:
+!(https://prnt.sc/JTKkdqGPfgA4)
+!(https://prnt.sc/ELXnBBL-34kV)
+!(https://prnt.sc/F0Ej9DCw-ouF)
